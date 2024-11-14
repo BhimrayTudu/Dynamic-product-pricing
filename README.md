@@ -1,1 +1,1 @@
-# Dynamic-product-pricing
+**Dynamic Product Pricing Using Machine Learning is a project focused on predicting optimal prices for products based on various market conditions. This application leverages machine learning techniques to dynamically adjust prices, enabling businesses to maximize revenue and remain competitive in fluctuating market environments. The project integrates multiple models including Linear Regression, Decision Trees, and Random Forest to predict product prices based on features like demand, seasonality, and location.**
